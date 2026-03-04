@@ -47,7 +47,7 @@ function processChains(): ChainConfig[] {
       if (!statSync(refFull).isDirectory()) continue;
 
       const jsonSrc = join(refFull, "chain.json");
-      const svgSrc = join(refFull, "chain.svg");
+      const svgSrc = join(refFull, "icon.svg");
 
       // Load config
       if (existsSync(jsonSrc)) {
@@ -66,7 +66,7 @@ function processChains(): ChainConfig[] {
 
       // Sync SVG to public
       if (existsSync(svgSrc)) {
-        const svgDest = join(destChainsDir, namespace, reference, "chain.svg");
+        const svgDest = join(destChainsDir, namespace, reference, "icon.svg");
         copyFileSafe(svgSrc, svgDest);
       }
     }
