@@ -1,0 +1,21 @@
+{
+  "chainId": "eip155:6281971",
+  "name": "DOGEOS_TESTNET",
+  "icon": "https://static.tomo.inc/token/Dogeos.svg",
+  "nativeCurrency": {
+    "name": "DOGE",
+    "symbol": "DOGE",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "default": {
+      "http": ["https://wallet-test.tomo.inc/rpc/v1/doge_test"]
+    }
+  },
+  "blockExplorers": {
+    "default": {
+      "name": "DOGEOS_TESTNET Explorer",
+      "url": "https://blockscout.testnet.dogeos.com/"
+    }
+  }
+}
