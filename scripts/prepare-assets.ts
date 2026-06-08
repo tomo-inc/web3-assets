@@ -47,7 +47,6 @@ function processChains(): ChainConfig[] {
       if (!statSync(refFull).isDirectory()) continue;
 
       const jsonSrc = join(refFull, "chain.json");
-      const svgSrc = join(refFull, "icon.svg");
 
       // Load config
       if (existsSync(jsonSrc)) {
@@ -64,10 +63,14 @@ function processChains(): ChainConfig[] {
         }
       }
 
-      // Sync SVG to public
-      if (existsSync(svgSrc)) {
-        const svgDest = join(destChainsDir, namespace, reference, "icon.svg");
-        copyFileSafe(svgSrc, svgDest);
+      // Sync icon to public (supports svg, png, jpg, jpeg)
+      const iconExts = ["svg", "png", "jpg", "jpeg"];
+      for (const ext of iconExts) {
+        const iconSrc = join(refFull, `icon.${ext}`);
+        if (existsSync(iconSrc)) {
+          const iconDest = join(destChainsDir, namespace, reference, `icon.${ext}`);
+          copyFileSafe(iconSrc, iconDest);
+        }
       }
     }
   }
