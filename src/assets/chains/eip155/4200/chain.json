@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:4200",
   "name": "Merlin",
-  "icon": "https://static.tomo.inc/token/merlin.png",
+  "icon": "/assets/chains/eip155/4200/icon.svg",
   "nativeCurrency": {
     "name": "BTC",
     "symbol": "BTC",

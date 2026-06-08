@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:1329",
   "name": "Sei Network",
-  "icon": "https://static.tomo.inc/token/sei.svg",
+  "icon": "/assets/chains/eip155/1329/icon.svg",
   "nativeCurrency": {
     "name": "Sei",
     "symbol": "SEI",

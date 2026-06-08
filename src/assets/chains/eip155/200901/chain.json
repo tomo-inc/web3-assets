@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:200901",
   "name": "Bitlayer Mainnet",
-  "icon": "https://static.tomo.inc/token/bitlayer.svg",
+  "icon": "/assets/chains/eip155/200901/icon.svg",
   "nativeCurrency": {
     "name": "BTC",
     "symbol": "BTC",

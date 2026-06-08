@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:56",
   "name": "BNB Smart Chain",
-  "icon": "https://static.tomo.inc/token/bsc_new.svg",
+  "icon": "/assets/chains/eip155/56/icon.svg",
   "nativeCurrency": {
     "name": "BNB",
     "symbol": "BNB",

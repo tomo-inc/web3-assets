@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:1514",
   "name": "Story",
-  "icon": "https://static.tomo.inc/token/story.jpg",
+  "icon": "/assets/chains/eip155/1514/icon.svg",
   "nativeCurrency": {
     "name": "IP Token",
     "symbol": "IP",

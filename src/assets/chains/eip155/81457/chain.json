@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:81457",
   "name": "Blast",
-  "icon": "https://static.tomo.inc/token/blast.svg",
+  "icon": "/assets/chains/eip155/81457/icon.svg",
   "nativeCurrency": {
     "name": "Ether",
     "symbol": "ETH",

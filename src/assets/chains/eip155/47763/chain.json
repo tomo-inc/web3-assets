@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:47763",
   "name": "Neo X Mainnet",
-  "icon": "https://static.tomo.inc/token/neo.jpg",
+  "icon": "/assets/chains/eip155/47763/icon.jpg",
   "nativeCurrency": {
     "name": "Gas",
     "symbol": "GAS",

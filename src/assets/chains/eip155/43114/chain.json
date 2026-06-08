@@ -1,7 +1,7 @@
 {
     "chainId": "eip155:43114",
     "name": "Avalanche",
-    "icon": "https://static.tomo.inc/token/avalanche.svg",
+    "icon": "/assets/chains/eip155/43114/icon.svg",
     "nativeCurrency": {
       "name": "Avalanche",
       "symbol": "AVAX",

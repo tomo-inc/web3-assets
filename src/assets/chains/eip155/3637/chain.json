@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:3637",
   "name": "Botanix",
-  "icon": "https://static.tomo.inc/token/Botanix.svg",
+  "icon": "/assets/chains/eip155/3637/icon.jpg",
   "nativeCurrency": {
     "name": "Bitcoin",
     "symbol": "BTC",

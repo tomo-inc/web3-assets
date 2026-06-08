@@ -1,7 +1,7 @@
 {
     "chainId": "eip155:1101",
     "name": "Polygon zkEVM",
-    "icon": "https://static.tomo.inc/token/ploygon_zkevm.png",
+    "icon": "/assets/chains/eip155/1101/icon.png",
     "nativeCurrency": {
       "name": "Ether",
       "symbol": "ETH",

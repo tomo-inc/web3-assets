@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:137",
   "name": "Polygon",
-  "icon": "https://static.tomo.inc/token/polygon.svg",
+  "icon": "/assets/chains/eip155/137/icon.svg",
   "nativeCurrency": {
     "name": "POL",
     "symbol": "POL",

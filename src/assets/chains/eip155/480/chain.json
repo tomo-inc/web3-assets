@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:480",
   "name": "World Chain",
-  "icon": "https://static.tomo.inc/token/world-chain.jpg",
+  "icon": "/assets/chains/eip155/480/icon.svg",
   "nativeCurrency": {
     "name": "Ether",
     "symbol": "ETH",

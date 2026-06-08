@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:10",
   "name": "OP Mainnet",
-  "icon": "https://static.tomo.inc/token/op.svg",
+  "icon": "/assets/chains/eip155/10/icon.svg",
   "nativeCurrency": {
     "name": "Ether",
     "symbol": "ETH",

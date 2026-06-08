@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:146",
   "name": "Sonic",
-  "icon": "https://static.tomo.inc/token/sonic.svg",
+  "icon": "/assets/chains/eip155/146/icon.svg",
   "nativeCurrency": {
     "name": "Sonic",
     "symbol": "S",

@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:59144",
   "name": "Linea Mainnet",
-  "icon": "https://static.tomo.inc/token/linea.svg",
+  "icon": "/assets/chains/eip155/59144/icon.svg",
   "nativeCurrency": {
     "name": "Linea Ether",
     "symbol": "ETH",

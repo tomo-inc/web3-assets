@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:8333",
   "name": "B3",
-  "icon": "https://static.tomo.inc/token/b3.svg",
+  "icon": "/assets/chains/eip155/8333/icon.svg",
   "nativeCurrency": {
     "name": "Ether",
     "symbol": "ETH",

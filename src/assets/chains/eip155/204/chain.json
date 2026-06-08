@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:204",
   "name": "opBNB",
-  "icon": "https://static.tomo.inc/token/opbnb.svg",
+  "icon": "/assets/chains/eip155/204/icon.svg",
   "nativeCurrency": {
     "name": "BNB",
     "symbol": "BNB",

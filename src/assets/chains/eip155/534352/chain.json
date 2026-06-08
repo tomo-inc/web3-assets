@@ -1,7 +1,7 @@
 {
     "chainId": "eip155:534352",
     "name": "Scroll",
-    "icon": "https://static.tomo.inc/token/scroll.svg",
+    "icon": "/assets/chains/eip155/534352/icon.svg",
     "nativeCurrency": {
       "name": "Ether",
       "symbol": "ETH",

@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:196",
   "name": "X Layer Mainnet",
-  "icon": "https://static.tomo.inc/token/x_layer.png",
+  "icon": "/assets/chains/eip155/196/icon.png",
   "nativeCurrency": {
     "name": "OKB",
     "symbol": "OKB",

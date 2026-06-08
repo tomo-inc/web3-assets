@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:21000000",
   "name": "Corn",
-  "icon": "https://static.tomo.inc/token/corn-logo.svg",
+  "icon": "/assets/chains/eip155/21000000/icon.svg",
   "nativeCurrency": {
     "name": "Bitcorn",
     "symbol": "BTCN",

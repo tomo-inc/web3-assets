@@ -1,7 +1,7 @@
 {
   "chainId": "bip122:1a91e3dace36e2be3bf030a65679fe82",
   "name": "Dogecoin",
-  "icon": "https://static.tomo.inc/token/doge.svg",
+  "icon": "/assets/chains/bip122/1a91e3dace36e2be3bf030a65679fe82/icon.png",
   "nativeCurrency": {
     "name": "Dogecoin",
     "symbol": "DOGE",

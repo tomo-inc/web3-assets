@@ -1,7 +1,7 @@
 {
     "chainId": "eip155:42161",
     "name": "Arbitrum One",
-    "icon": "https://static.tomo.inc/token/arb.jpeg",
+    "icon": "/assets/chains/eip155/42161/icon.svg",
     "nativeCurrency": {
       "name": "Ether",
       "symbol": "ETH",

@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:6281971",
   "name": "DOGEOS_TESTNET",
-  "icon": "https://static.tomo.inc/token/Dogeos.svg",
+  "icon": "/assets/chains/eip155/6281971/icon.svg",
   "nativeCurrency": {
     "name": "DOGE",
     "symbol": "DOGE",

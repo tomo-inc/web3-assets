@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:324",
   "name": "ZKsync Era",
-  "icon": "https://static.tomo.inc/token/zksync.png",
+  "icon": "/assets/chains/eip155/324/icon.svg",
   "nativeCurrency": {
     "name": "Ether",
     "symbol": "ETH",

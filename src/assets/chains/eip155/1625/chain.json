@@ -1,7 +1,7 @@
 {
   "chainId": "eip155:1625",
   "name": "Gravity Alpha Mainnet",
-  "icon": "https://static.tomo.inc/token/gravity.jpg",
+  "icon": "/assets/chains/eip155/1625/icon.jpg",
   "nativeCurrency": {
     "name": "G",
     "symbol": "G",
